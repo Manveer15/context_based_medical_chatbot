@@ -20,9 +20,9 @@ Framework: LangChain for orchestration
 
 Vector Store: FAISS for fast nearest-neighbor search
 
-Embeddings: all-MiniLM-L6-v2 (or similar sentence-transformers)
+Embeddings: all-MiniLM-L6-v2 (or you can use better paid model for Much longer and more described suggetion)
 
-Frontend: Streamlit or Gradio (optional but recommended)
+Frontend: Streamlit 
 
 📚 Use Cases
 Medical assistants for clinical information retrieval
